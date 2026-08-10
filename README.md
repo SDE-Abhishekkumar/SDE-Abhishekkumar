@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+Abhishek+Kumar;Full+Stack+Developer;AI+%26+ML+Enthusiast;Android+Craftsman" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+Abhishek+Kumar;Software+Developer;Full+Stack+Engineer;AI+%26+ML+Enthusiast;Android+Craftsman" alt="Animated Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,17 +24,22 @@
   <img src="https://komarev.com/ghpvc/?username=SDE-Abhishekkumar&style=flat-square&color=00C7FF" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/SDE-Abhishekkumar?style=flat-square&logo=github&color=00C7FF" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-00FF88?style=flat-square" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Software_Developer-🚀-FF6B6B?style=flat-square" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Hey there! I'm **Abhishek** — a developer who bridges the gap between **engineering** and **data intelligence**. I build full‑stack applications that are not only functional but also data‑aware. Whether it's a native Android app, a robust backend service, or an ML‑powered feature, I love owning the entire lifecycle.
+Hey there! I'm **Abhishek** — a passionate **Software Developer** who bridges **engineering** and **data intelligence**. I build full‑stack applications that are not only functional but also data‑aware. Whether it's a native Android app, a robust backend service, or an ML‑powered feature, I love owning the entire lifecycle.
 
 Currently pursuing my **Master of Computer Applications (AI/ML)** , I combine academic depth with hands‑on industry experience. I've worked with startups and remote teams, delivering production‑ready code using **Java**, **Node.js**, **React**, and **Python**.
 
-> ✨ *"Code that solves real problems – that's what drives me."*
+> 💡 *“Code that solves real problems – that's what drives me.”*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+</p>
 
 ---
 
@@ -180,7 +185,7 @@ I actively solve Data Structures & Algorithms problems daily. Below is my **comp
 
 ---
 
-## 📫 Let's Connect!
+## 🌟 Let's Connect!
 
 I'm always open to **collaborations**, **mentorship**, or **exciting opportunities** — hit me up!
 
@@ -197,4 +202,4 @@ I'm always open to **collaborations**, **mentorship**, or **exciting opportuniti
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
 
-> *"Building solutions, one line of code at a time."* ✨
+> *“Building solutions, one line of code at a time.”* ✨
