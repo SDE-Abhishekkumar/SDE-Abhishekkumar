@@ -32,9 +32,9 @@
 
 Hey there! I'm **Abhishek** — a developer who bridges the gap between **engineering** and **data intelligence**. I build full‑stack applications that are not only functional but also data‑aware. Whether it's a native Android app, a robust backend service, or an ML‑powered feature, I love owning the entire lifecycle.
 
-Currently pursuing my **Master of Computer Applications (AI/ML)** , I combine academic depth with hands‑on industry experience. I’ve worked with startups and remote teams, delivering production‑ready code using **Java**, **Node.js**, **React**, and **Python**.
+Currently pursuing my **Master of Computer Applications (AI/ML)** , I combine academic depth with hands‑on industry experience. I've worked with startups and remote teams, delivering production‑ready code using **Java**, **Node.js**, **React**, and **Python**.
 
-> ✨ *“Code that solves real problems – that’s what drives me.”*
+> ✨ *"Code that solves real problems – that's what drives me."*
 
 ---
 
@@ -56,20 +56,35 @@ Currently pursuing my **Master of Computer Applications (AI/ML)** , I combine ac
 
 ---
 
-## 🧩 LeetCode Progress & Analytics (Live)
+## 🧩 LeetCode Dashboard – Full Stats & Heatmap
 
-I actively solve Data Structures & Algorithms problems to keep my problem‑solving sharp. This card shows my **real‑time stats**, **ranking**, and a **submission heatmap** (calendar view) – updated automatically!
+I actively solve Data Structures & Algorithms problems daily. Below is my **complete LeetCode progress** – total solved, difficulty breakdown, global ranking, acceptance rate, and a **submission heatmap calendar** (auto-updated).
 
 <p align="center">
   <a href="https://leetcode.com/u/abhi_singh1234">
-    <img src="https://leetcard.jacoblin.cool/abhi_singh1234?theme=radical&font=Roboto&calendar=1&border=0&hide_border=true&bg_color=0D1117" alt="LeetCode Stats Card" width="90%" />
+    <img src="https://leetcard.jacoblin.cool/abhi_singh1234?theme=radical&font=Roboto&ext=heatmap&border=0&hide_border=true&bg_color=0D1117" alt="LeetCode Stats Card" width="95%" />
   </a>
 </p>
 
+### 📈 Difficulty Breakdown (Live)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Total_Solved-200+-00F7FF?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  <img src="https://img.shields.io/badge/Ranking-Top_30%25-FFD700?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  <img src="https://img.shields.io/badge/Daily_Streak-Yes-brightgreen?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Global_Ranking-Top_30%25-FFD700?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/Acceptance_Rate-65%25-00FF88?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢_Easy-120+-00FF88?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/🟡_Medium-60+-FFD700?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔴_Hard-20+-FF4444?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
+<!-- Custom progress bars for visual depth -->
+<p align="center">
+  <b>Easy</b> <progress value="60" max="100" style="width:200px;height:20px;accent-color:#00FF88;"></progress> 60% &nbsp;&nbsp;
+  <b>Medium</b> <progress value="30" max="100" style="width:200px;height:20px;accent-color:#FFD700;"></progress> 30% &nbsp;&nbsp;
+  <b>Hard</b> <progress value="10" max="100" style="width:200px;height:20px;accent-color:#FF4444;"></progress> 10%
 </p>
 
 ---
@@ -182,4 +197,4 @@ I'm always open to **collaborations**, **mentorship**, or **exciting opportuniti
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
 
-> *“Building solutions, one line of code at a time.”* ✨
+> *"Building solutions, one line of code at a time."* ✨
