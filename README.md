@@ -56,6 +56,24 @@ Currently pursuing my **Master of Computer Applications (AI/ML)** , I combine ac
 
 ---
 
+## 🧩 LeetCode Progress & Analytics (Live)
+
+I actively solve Data Structures & Algorithms problems to keep my problem‑solving sharp. This card shows my **real‑time stats**, **ranking**, and a **submission heatmap** (calendar view) – updated automatically!
+
+<p align="center">
+  <a href="https://leetcode.com/u/abhi_singh1234">
+    <img src="https://leetcard.jacoblin.cool/abhi_singh1234?theme=radical&font=Roboto&calendar=1&border=0&hide_border=true&bg_color=0D1117" alt="LeetCode Stats Card" width="90%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Solved-200+-00F7FF?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/Ranking-Top_30%25-FFD700?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/Daily_Streak-Yes-brightgreen?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
+
+---
+
 ## 🐍 Contribution Snake Game
 
 <p align="center">
