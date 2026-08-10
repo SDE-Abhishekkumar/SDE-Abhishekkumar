@@ -1,157 +1,167 @@
-# 👨‍💻 Abhishek Kumar  
-### *Full Stack Developer | AI/ML Enthusiast | Android Craftsman*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+Abhishek+Kumar;Full+Stack+Developer;AI+%26+ML+Enthusiast;Android+Craftsman" alt="Animated Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sde-abhishek-kumar/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/SDE-Abhishekkumar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/abhi_singh1234)
-[![Email](https://img.shields.io/badge/Email-sde.abhishekkumarsingh@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:sde.abhishekkumarsingh@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-000000?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sde-abhishek-kumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+  </a>
+  <a href="https://github.com/SDE-Abhishekkumar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/abhi_singh1234">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:sde.abhishekkumarsingh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
----
-
-## 📖 Table of Contents
-- [🚀 About Me](#-about-me)
-- [💼 Experience](#-experience)
-- [🛠️ Projects](#️-projects)
-- [🧰 Tech Stack](#-tech-stack)
-- [📜 Certifications & Achievements](#-certifications--achievements)
-- [🎓 Education](#-education)
-- [📫 Let's Connect](#-lets-connect)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SDE-Abhishekkumar&style=flat-square&color=00C7FF" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SDE-Abhishekkumar?style=flat-square&logo=github&color=00C7FF" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-00FF88?style=flat-square" alt="Open to Work" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-Hey, I’m **Abhishek** — a developer who bridges the gap between **engineering** and **data intelligence**. I build full‑stack applications that are not only functional but also data‑aware. Whether it's a native Android app, a robust backend service, or an ML‑powered feature, I love owning the entire lifecycle.
+Hey there! I'm **Abhishek** — a developer who bridges the gap between **engineering** and **data intelligence**. I build full‑stack applications that are not only functional but also data‑aware. Whether it's a native Android app, a robust backend service, or an ML‑powered feature, I love owning the entire lifecycle.
 
-Currently pursuing my **Master of Computer Applications (AI/ML)** , I combine academic depth with hands‑on industry experience. I’ve worked with startups and remote teams, delivering production‑ready code using **Java**, **Node.js**, **React**, and **Python**. My toolkit is a blend of modern frameworks, cloud services, and algorithmic thinking.
+Currently pursuing my **Master of Computer Applications (AI/ML)** , I combine academic depth with hands‑on industry experience. I’ve worked with startups and remote teams, delivering production‑ready code using **Java**, **Node.js**, **React**, and **Python**.
 
 > ✨ *“Code that solves real problems – that’s what drives me.”*
 
 ---
 
-## 💼 Experience
+## 📊 GitHub Analytics & Activity
 
-### 🔹 Backend Application Developer  
-**Better You And Friends Ltd** · *Jul 2025 – Oct 2025* · Remote  
-- Architected RESTful APIs using **Node.js/Express** for an EdTech platform, handling 5k+ daily requests.  
-- Built responsive React components and integrated them with backend endpoints to deliver smooth UX.  
-- Collaborated on ML workflows – from data preprocessing (Pandas) to model experimentation (Scikit‑learn) – adding predictive insights to the platform.  
-- Designed database schemas (SQL/NoSQL) to optimize data flow between frontend, backend, and ML services.  
-- Practiced Agile with GitHub – PR reviews, branching strategies, and CI‑ready commits.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SDE-Abhishekkumar&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDE-Abhishekkumar&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</p>
 
-### 🔹 Full Stack Application Developer  
-**Netcamp Solutions Private Limited** · *Jul 2024 – Aug 2024* · Ghaziabad, India  
-- Developed native Android apps using **Java** and **Android Studio** with Material Design principles.  
-- Integrated **Firebase** Authentication, Realtime Database, and Cloud Storage for secure login, live data sync, and media handling.  
-- Consumed REST APIs, parsed JSON, and ensured reliable client‑server communication.  
-- Enhanced app stability by debugging across multiple Android versions and devices.  
-- Led version control with Git/GitHub, performing code reviews and maintaining clean commit logs.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDE-Abhishekkumar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SDE-Abhishekkumar&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="48%" />
+</p>
 
-### 🔹 Java Developer Intern  
-**PINNACLE LAB** · *Jul 2026 – Present* · Remote  
-- Building an e‑commerce shopping cart (product listing, cart management, order processing) using **Java** and RESTful APIs.  
-- Developing a weather forecast app that fetches real‑time data from third‑party APIs.  
-- Applying OOP principles and design patterns for clean, maintainable code.  
-- Collaborating in an Agile environment with Git for version control.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SDE-Abhishekkumar&bg_color=0D1117&color=00F7FF&line=FF007F&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph" width="95%" />
+</p>
 
 ---
 
-## 🛠️ Projects That Define Me
+## 🐍 Contribution Snake Game
 
-### 🌿 **Green India** – Sustainability Android App  
-*Java · XML · Android Studio · Firebase · REST APIs*  
-[🔗 Repo](https://github.com/SDE-Abhishekkumar/Green-India) · [Live Demo (coming soon)]()
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/output/github-snake.svg" />
+  </picture>
+</p>
 
-A complete ecosystem for environmentally conscious users:
-- **Waste Management** – Report, categorise, and track waste disposal; encourages responsible habits.
-- **Plantation Streak** – Gamified tree‑planting tracker with daily streaks to sustain engagement.
-- **Carbon Footprint Calculator** – Estimates emissions from daily activities using live data via REST APIs.
-- **Firebase Sync** – Real‑time storage, authentication, and cross‑device synchronisation.
-- **Clean Architecture** – Built with MVVM patterns and Material Design for a polished UI.
-
-### 🛒 **E‑Commerce Shopping Cart** (Internship Project)  
-*Java · REST APIs · OOP*  
-[🔗 Repo](https://github.com/SDE-Abhishekkumar/ShopCart)
-
-A full‑featured cart system:
-- Product browsing, add/remove items, quantity updates.
-- Order processing with validation and total calculation.
-- Modular design following SOLID principles for scalability.
-
-### ☁️ **Weather Forecast App** (Internship Project)  
-*Java · Third‑Party APIs · JSON Parsing*  
-[🔗 Repo](https://github.com/SDE-Abhishekkumar/WeatherNow)
-
-- Fetches real‑time weather and 5‑day forecast from OpenWeatherMap.
-- Clean UI with dynamic icons and temperature units toggle.
-- Handles API errors gracefully and caches recent searches.
+> *💡 To enable the animated snake, add the [`snk` workflow](https://github.com/Platane/snk) to your `.github/workflows/` folder.*
 
 ---
 
-## 🧰 Tech Stack
+## 💼 Professional Experience
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | Java, JavaScript, Python, SQL, HTML, CSS |
-| **Backend** | Node.js, Express.js, REST API design, Firebase (Auth, Firestore, Storage) |
-| **Frontend** | React.js, XML, Material Design, Android UI/UX |
-| **Mobile** | Native Android (Java), Android Studio, Firebase SDK |
-| **Data/ML** | Pandas, Scikit‑learn, Data Preprocessing, Model Experimentation |
-| **Tools** | Git, GitHub, Postman, VS Code, IntelliJ, Android Studio |
-| **Practices** | Agile, Scrum, Code Reviews, CI/CD (basic), Test‑Driven Development (basic) |
+| Role | Company | Duration | Key Contributions |
+|------|---------|----------|-------------------|
+| **Backend Application Developer** | Better You And Friends Ltd | Jul 2025 – Oct 2025 | Architected Node.js/Express APIs (5K+ daily reqs). Built React components & integrated ML workflows (Pandas/Scikit). |
+| **Full Stack App Developer** | Netcamp Solutions Pvt Ltd | Jul 2024 – Aug 2024 | Native Android dev with Firebase. Consumed REST APIs, enhanced app stability across 20+ devices. |
+| **Java Developer Intern** | PINNACLE LAB | Jul 2026 – Present | Building e‑commerce & weather apps in Java. Applied OOP & RESTful patterns. |
 
 ---
 
-## 📜 Certifications & Achievements
+## 🛠️ Flagship Projects
 
-- 🧠 **Data Structures & Algorithms with Java** – Comprehensive course covering Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Recursion, Sorting/Searching, Hashing, and DP.  
-- 💼 **DSA Interview Prep** – Verified certification focusing on problem‑solving patterns, time/space complexity, and interview strategies.  
-- 🔍 **Digital Forensics** – NASSCOM certified; learned cybercrime investigation, evidence handling, disk/file system forensics, network forensics, and incident response.  
-- 🏆 **LeetCode** – Solved 200+ problems (ranked top 30% globally).  
-- 📊 **GitHub** – Active contributor with 10+ repositories and consistent commit streaks.
+### 🌿 **Green India** – Sustainability App
+`Java` `XML` `Android Studio` `Firebase` `REST APIs`
+
+![Project Status](https://img.shields.io/badge/Status-Completed-00FF88?style=flat-square)
+![Repo Stars](https://img.shields.io/github/stars/SDE-Abhishekkumar/Green-India?style=flat-square&color=FFD700)
+
+- 📍 Waste Management module for reporting & tracking disposal.
+- 🌱 Plantation Streak to gamify tree‑planting habits.
+- 📊 Carbon Footprint Calculator using live API data.
+- 🔥 Firebase Auth + Real‑time sync for seamless UX.
+
+### 🛒 **E‑Commerce Shopping Cart** – Internship Project
+`Java` `REST APIs` `OOP`
+
+![Project Status](https://img.shields.io/badge/Status-In_Progress-FFA500?style=flat-square)
+
+- Product browsing, cart management, order validation.
+- Modular SOLID design for easy scaling.
+
+### ☁️ **Weather Forecast App** – Internship Project
+`Java` `OpenWeatherMap` `JSON`
+
+![Project Status](https://img.shields.io/badge/Status-Completed-00FF88?style=flat-square)
+
+- Real‑time weather + 5‑day forecast with dynamic icons.
+- Error handling and local caching.
+
+---
+
+## 🧰 Tech Arsenal (Animated Badges)
+
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **Languages** | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white" /> <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white" /> |
+| **Mobile** | <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> |
+| **ML / Data** | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> |
+| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> |
+
+---
+
+## 📜 Certifications & Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DSA_with_Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA_Interview_Prep-FF6C00?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital_Forensics-003366?style=for-the-badge&logo=security&logoColor=white" />
+</p>
+
+- 🧠 **Data Structures & Algorithms with Java** – Arrays, Trees, Graphs, DP.
+- 💼 **DSA Interview Prep** – Complexity analysis & problem‑solving patterns.
+- 🔍 **Digital Forensics (NASSCOM)** – Cybercrime investigation & evidence handling.
 
 ---
 
 ## 🎓 Education
 
-### **Master of Computer Applications (AI/ML)**  
-**Uttaranchal University** · *2024 – 2026 (expected)*  
-**Relevant Coursework:** Python for Data Science, Data Structures & Algorithms, Machine Learning, Deep Learning, NLP, Information Retrieval, Data Visualization, Business Case Studies.
-
-### **Bachelor of Computer Applications**  
-**University of Lucknow** · *2021 – 2024*  
-**Core Subjects:** Data Structures, Algorithms, OOP, DBMS, Web Development, Operating Systems.
-
----
-
-## 📊 GitHub & LeetCode Stats
-
-<!-- Replace with your actual stats if you want -->
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=SDE-Abhishekkumar&show_icons=true&theme=radical)](https://github.com/SDE-Abhishekkumar)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/abhi_singh1234?theme=dark&font=Roboto)](https://leetcode.com/u/abhi_singh1234)
+| Degree | Institution | Year | Highlights |
+|--------|-------------|------|------------|
+| **MCA (AI/ML)** | Uttaranchal University | 2024 – 2026 | Python, ML, Deep Learning, NLP, Data Viz. |
+| **BCA** | University of Lucknow | 2021 – 2024 | DSA, OOP, DBMS, Web Dev. |
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always open to **collaborations**, **mentorship**, or **job opportunities** — feel free to reach out!
+I'm always open to **collaborations**, **mentorship**, or **exciting opportunities** — hit me up!
 
-- 📧 **Email:** [sde.abhishekkumarsingh@gmail.com](mailto:sde.abhishekkumarsingh@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/sde-abhishek-kumar](https://www.linkedin.com/in/sde-abhishek-kumar/)
-- 🐙 **GitHub:** [github.com/SDE-Abhishekkumar](https://github.com/SDE-Abhishekkumar)
-- 🧩 **LeetCode:** [leetcode.com/u/abhi_singh1234](https://leetcode.com/u/abhi_singh1234)
-- 🌐 **Portfolio:** (Coming soon — hosted on Vercel/Netlify)
-
----
-
-> *“Building solutions, one line of code at a time.”*
+<p align="center">
+  <a href="mailto:sde.abhishekkumarsingh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sde-abhishek-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SDE-Abhishekkumar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/abhi_singh1234"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
 
 ---
 
-**📄 Download my Resume:** [Abhishek_Kumar_Resume.pdf](./Abhishek_Kumar_Resume.pdf)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
 
----
-
-*This README is a living showcase — it grows with every project I build.* ✨
+> *“Building solutions, one line of code at a time.”* ✨
