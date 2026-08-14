@@ -60,6 +60,24 @@ Currently pursuing my **Master of Computer Applications (AI/ML)**, I combine aca
 
 <br clear="both"/>
 
+### 🪐 Tech Orbit — Live SVG Visualization
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/assets/tech-orbit.svg" width="480" alt="Animated Tech Orbit" />
+</div>
+
+### 💻 Live Terminal Session
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/assets/terminal-animation.svg" width="95%" alt="Animated Terminal" />
+</div>
+
+> *💡 Both graphics above are custom-built SVGs (not third-party badges). To make them render, add `tech-orbit.svg` and `terminal-animation.svg` to an `assets/` folder in your `SDE-Abhishekkumar/SDE-Abhishekkumar` profile repo — they're attached to this chat, ready to upload.*
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="Animated Divider" />
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
 ## 📊 GitHub Analytics & Activity
