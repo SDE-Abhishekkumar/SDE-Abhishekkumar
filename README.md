@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7000FF,100:FF007F&height=220&section=header&text=Abhishek%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7000FF,100:FF007F&height=220&section=header&text=Abhishek%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20end-to-end%20products%20with%20code%20%26%20data&descAlignY=58&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+Abhishek+Kumar;Software+Developer+%F0%9F%9A%80;Full+Stack+Engineer+%E2%9A%99%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Android+Craftsman+%F0%9F%93%B1" alt="Animated Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hello+World!+%F0%9F%91%8B;I%27m+Abhishek+Kumar;Software+Developer+%F0%9F%9A%80;Full+Stack+Engineer+%E2%9A%99%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Android+Craftsman+%F0%9F%93%B1" alt="Animated Typing SVG" />
 
 <br/>
 
@@ -74,6 +74,12 @@ Currently pursuing my **Master of Computer Applications (AI/ML)**, I combine aca
 <img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
 
 > *💡 Auto-generate this with [`profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) via GitHub Actions.*
+</div>
+
+### 🧬 Isometric Repo Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SDE-Abhishekkumar&custom_title=Weekly%20Development%20Breakdown&bg_color=0D1117&color=00F7FF&line=7000FF&point=FFFFFF&area=true&hide_border=true&area_color=FF007F&title_color=00F7FF" width="95%" alt="Weekly Breakdown" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
@@ -202,6 +208,29 @@ timeline
 | **Mobile** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) |
 | **ML / Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
+
+## 📈 Advanced Live Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SDE-Abhishekkumar&theme=radical" width="47%" alt="Profile Details Card" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SDE-Abhishekkumar&theme=radical" width="47%" alt="Stats Card" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SDE-Abhishekkumar&theme=radical" width="47%" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SDE-Abhishekkumar&theme=radical" width="47%" alt="Most Commit Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SDE-Abhishekkumar&theme=radical&utcOffset=5.5" width="95%" alt="Productive Time" />
+
+</div>
+
+### 🗓️ GitHub Issues, PRs & Discussions
+
+<div align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/issues?q=author:SDE-Abhishekkumar+type:pr&query=$.total_count&label=Pull%20Requests&color=00F7FF&style=for-the-badge&logo=github" alt="PR Count" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/issues?q=author:SDE-Abhishekkumar+type:issue&query=$.total_count&label=Issues%20Opened&color=FF007F&style=for-the-badge&logo=github" alt="Issue Count" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
