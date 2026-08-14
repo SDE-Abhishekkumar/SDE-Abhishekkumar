@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7000FF,100:FF007F&height=220&section=header&text=Abhishek%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20end-to-end%20products%20with%20code%20%26%20data&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF007F&height=230&section=header&text=Abhishek%20Kumar&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20end-to-end%20products%20with%20code%20%26%20data&descAlignY=58&descSize=19" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hello+World!+%F0%9F%91%8B;I%27m+Abhishek+Kumar;Software+Developer+%F0%9F%9A%80;Full+Stack+Engineer+%E2%9A%99%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Android+Craftsman+%F0%9F%93%B1" alt="Animated Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Hello+World!+%F0%9F%91%8B;I%27m+Abhishek+Kumar;Software+Developer+%F0%9F%9A%80;Full+Stack+Engineer+%E2%9A%99%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Android+Craftsman+%F0%9F%93%B1" alt="Animated Typing SVG" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:7000FF,100:FF007F&height=3&width=680&section=header" width="55%" />
 
 <br/>
 
@@ -27,6 +31,10 @@
 <img src="https://komarev.com/ghpvc/?username=SDE-Abhishekkumar&style=for-the-badge&color=00C7FF&label=PROFILE+VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/SDE-Abhishekkumar?style=for-the-badge&logo=github&color=00C7FF&labelColor=0D1117" alt="GitHub Followers" />
 <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-00FF88?style=for-the-badge&labelColor=0D1117" alt="Open to Work" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="Animated Divider" />
 
 </div>
 
