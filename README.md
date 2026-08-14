@@ -65,6 +65,10 @@ Currently pursuing my **Master of Computer Applications (AI/ML)**, I combine aca
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="90" alt="3D Stats Animation" />
+</div>
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SDE-Abhishekkumar&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF007F&text_color=ffffff&include_all_commits=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDE-Abhishekkumar&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=FF007F&currStreakLabel=00F7FF" alt="GitHub Streak" width="48%" />
@@ -163,6 +167,10 @@ timeline
 ## 🛠️ Flagship Projects
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="140" alt="Typing Animation" />
+</div>
+
+<div align="center">
 
 <a href="https://github.com/SDE-Abhishekkumar/Green-India">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=SDE-Abhishekkumar&repo=Green-India&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF" width="47%"/>
@@ -201,6 +209,12 @@ timeline
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
 ## 🧰 Tech Arsenal
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Skills Animation" />
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100" alt="JavaScript Animation" />
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="100" alt="Code Animation" />
+</div>
 
 <div align="center">
 
@@ -277,6 +291,8 @@ timeline
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="160" alt="Confident Coder Animation" />
+
 I'm always open to **collaborations**, **mentorship**, or **exciting opportunities** — hit me up!
 
 <a href="mailto:sde.abhishekkumarsingh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -284,10 +300,13 @@ I'm always open to **collaborations**, **mentorship**, or **exciting opportuniti
 <a href="https://github.com/SDE-Abhishekkumar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://leetcode.com/u/abhi_singh1234"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
-<br/><br/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60" alt="Fire Animation" />
 
 **"Building solutions, one line of code at a time." ✨**
 
 </div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,50:7000FF,100:00F7FF&height=150&section=footer" width="100%" />
