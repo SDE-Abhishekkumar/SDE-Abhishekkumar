@@ -63,16 +63,16 @@ Currently pursuing my **Master of Computer Applications (AI/ML)**, I combine aca
 ### 🪐 Tech Orbit — Live SVG Visualization
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/assets/tech-orbit.svg" width="480" alt="Animated Tech Orbit" />
+<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/tech-orbit.svg" width="480" alt="Animated Tech Orbit" />
 </div>
 
 ### 💻 Live Terminal Session
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/assets/terminal-animation.svg" width="95%" alt="Animated Terminal" />
+<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/Terminal%20animation.svg" width="95%" alt="Animated Terminal" />
 </div>
 
-> *💡 Both graphics above are custom-built SVGs (not third-party badges). To make them render, add `tech-orbit.svg` and `terminal-animation.svg` to an `assets/` folder in your `SDE-Abhishekkumar/SDE-Abhishekkumar` profile repo — they're attached to this chat, ready to upload.*
+> *💡 Both graphics above are custom-built SVGs (not third-party badges). Make sure `tech-orbit.svg` and `Terminal animation.svg` sit in the root of your `SDE-Abhishekkumar/SDE-Abhishekkumar` profile repo (not inside a subfolder) for the links above to render.*
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="Animated Divider" />
