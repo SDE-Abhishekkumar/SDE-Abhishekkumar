@@ -1,98 +1,114 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+Abhishek+Kumar;Software+Developer;Full+Stack+Engineer;AI+%26+ML+Enthusiast;Android+Craftsman" alt="Animated Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sde-abhishek-kumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
-  </a>
-  <a href="https://github.com/SDE-Abhishekkumar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/abhi_singh1234">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:sde.abhishekkumarsingh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7000FF,100:FF007F&height=220&section=header&text=Abhishek%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SDE-Abhishekkumar&style=flat-square&color=00C7FF" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SDE-Abhishekkumar?style=flat-square&logo=github&color=00C7FF" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-00FF88?style=flat-square" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Software_Developer-🚀-FF6B6B?style=flat-square" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+Abhishek+Kumar;Software+Developer+%F0%9F%9A%80;Full+Stack+Engineer+%E2%9A%99%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Android+Craftsman+%F0%9F%93%B1" alt="Animated Typing SVG" />
 
----
+<br/>
+
+<a href="https://www.linkedin.com/in/sde-abhishek-kumar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+</a>
+<a href="https://github.com/SDE-Abhishekkumar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/abhi_singh1234">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="mailto:sde.abhishekkumarsingh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=SDE-Abhishekkumar&style=for-the-badge&color=00C7FF&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/SDE-Abhishekkumar?style=for-the-badge&logo=github&color=00C7FF&labelColor=0D1117" alt="GitHub Followers" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-00FF88?style=for-the-badge&labelColor=0D1117" alt="Open to Work" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **Abhishek** — a passionate **Software Developer** who bridges **engineering** and **data intelligence**. I build full‑stack applications that are not only functional but also data‑aware. Whether it's a native Android app, a robust backend service, or an ML‑powered feature, I love owning the entire lifecycle.
+<img align="right" width="380" src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/desktop.gif" alt="Coding Animation" />
 
-Currently pursuing my **Master of Computer Applications (AI/ML)** , I combine academic depth with hands‑on industry experience. I've worked with startups and remote teams, delivering production‑ready code using **Java**, **Node.js**, **React**, and **Python**.
+Hey there! I'm **Abhishek** — a passionate **Software Developer** who bridges **engineering** and **data intelligence**. I build full-stack applications that are not only functional but also data-aware. Whether it's a native Android app, a robust backend service, or an ML-powered feature, I love owning the entire lifecycle.
 
-> 💡 *“Code that solves real problems – that's what drives me.”*
+Currently pursuing my **Master of Computer Applications (AI/ML)**, I combine academic depth with hands-on industry experience. I've worked with startups and remote teams, delivering production-ready code using **Java**, **Node.js**, **React**, and **Python**.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
-</p>
+```
+> "Code that solves real problems – that's what drives me."
+```
 
----
+🔭 Currently building — **Java-based e-commerce & weather apps @ Pinnacle Lab**
+🌱 Currently learning — **Deep Learning, NLP & Data Visualization**
+👯 Looking to collaborate on — **AI-powered full-stack products**
+💬 Ask me about — **Java, React, Android, REST APIs, ML pipelines**
+⚡ Fun fact — **I turn single HTML files into fully animated 3D experiences**
+
+<br clear="both"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
 ## 📊 GitHub Analytics & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SDE-Abhishekkumar&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDE-Abhishekkumar&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDE-Abhishekkumar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=SDE-Abhishekkumar&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=SDE-Abhishekkumar&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF007F&text_color=ffffff&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SDE-Abhishekkumar&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=FF007F&currStreakLabel=00F7FF" alt="GitHub Streak" width="48%" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SDE-Abhishekkumar&bg_color=0D1117&color=00F7FF&line=FF007F&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph" width="95%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDE-Abhishekkumar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=10" alt="Top Languages" width="45%" />
+<img src="https://github-profile-trophy.vercel.app/?username=SDE-Abhishekkumar&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="48%" />
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SDE-Abhishekkumar&bg_color=0D1117&color=00F7FF&line=FF007F&point=FFFFFF&area=true&hide_border=true&area_color=7000FF" alt="GitHub Contribution Graph" width="95%" />
 
-## 🧩 LeetCode Dashboard – Full Stats & Heatmap
+</div>
 
-I actively solve Data Structures & Algorithms problems daily. Below is my **complete LeetCode progress** – total solved, difficulty breakdown, global ranking, acceptance rate, and a **submission heatmap calendar** (auto-updated).
+### 🧊 3D Contribution Calendar
 
-<p align="center">
-  <a href="https://leetcode.com/u/abhi_singh1234">
-    <img src="https://leetcard.jacoblin.cool/abhi_singh1234?theme=radical&font=Roboto&ext=heatmap&border=0&hide_border=true&bg_color=0D1117" alt="LeetCode Stats Card" width="95%" />
-  </a>
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
+
+> *💡 Auto-generate this with [`profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) via GitHub Actions.*
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
+
+## 🧩 LeetCode Dashboard — Full Stats & Heatmap
+
+I actively solve Data Structures & Algorithms problems daily. Below is my **complete LeetCode progress** — total solved, difficulty breakdown, global ranking, acceptance rate, and a **submission heatmap calendar** (auto-updated).
+
+<div align="center">
+<a href="https://leetcode.com/u/abhi_singh1234">
+  <img src="https://leetcard.jacoblin.cool/abhi_singh1234?theme=radical&font=Roboto&ext=heatmap&border=0&hide_border=true&bg_color=0D1117" alt="LeetCode Stats Card" width="95%" />
+</a>
+</div>
 
 ### 📈 Difficulty Breakdown (Live)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Solved-200+-00F7FF?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  <img src="https://img.shields.io/badge/Global_Ranking-Top_30%25-FFD700?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  <img src="https://img.shields.io/badge/Acceptance_Rate-65%25-00FF88?style=for-the-badge&logo=checkmarx&logoColor=white" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🟢_Easy-120+-00FF88?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/🟡_Medium-60+-FFD700?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/🔴_Hard-20+-FF4444?style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Total_Solved-200+-00F7FF?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+<img src="https://img.shields.io/badge/Global_Ranking-Top_30%25-FFD700?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+<img src="https://img.shields.io/badge/Acceptance_Rate-65%25-00FF88?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
-<!-- Custom progress bars for visual depth -->
-<p align="center">
-  <b>Easy</b> <progress value="60" max="100" style="width:200px;height:20px;accent-color:#00FF88;"></progress> 60% &nbsp;&nbsp;
-  <b>Medium</b> <progress value="30" max="100" style="width:200px;height:20px;accent-color:#FFD700;"></progress> 30% &nbsp;&nbsp;
-  <b>Hard</b> <progress value="10" max="100" style="width:200px;height:20px;accent-color:#FF4444;"></progress> 10%
-</p>
+<img src="https://img.shields.io/badge/🟢_Easy-120+-00FF88?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/🟡_Medium-60+-FFD700?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/🔴_Hard-20+-FF4444?style=for-the-badge&logo=leetcode&logoColor=white" />
 
----
+<table>
+<tr><td><b>Easy</b></td><td><progress value="60" max="100" style="width:300px;height:22px;accent-color:#00FF88;"></progress></td><td>60%</td></tr>
+<tr><td><b>Medium</b></td><td><progress value="30" max="100" style="width:300px;height:22px;accent-color:#FFD700;"></progress></td><td>30%</td></tr>
+<tr><td><b>Hard</b></td><td><progress value="10" max="100" style="width:300px;height:22px;accent-color:#FF4444;"></progress></td><td>10%</td></tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
 ## 🐍 Contribution Snake Game
 
@@ -100,67 +116,94 @@ I actively solve Data Structures & Algorithms problems daily. Below is my **comp
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/output/github-snake.svg" />
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/output/github-snake.svg" width="95%" />
   </picture>
 </p>
 
 > *💡 To enable the animated snake, add the [`snk` workflow](https://github.com/Platane/snk) to your `.github/workflows/` folder.*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
 ## 💼 Professional Experience
 
-| Role | Company | Duration | Key Contributions |
-|------|---------|----------|-------------------|
-| **Backend Application Developer** | Better You And Friends Ltd | Jul 2025 – Oct 2025 | Architected Node.js/Express APIs (5K+ daily reqs). Built React components & integrated ML workflows (Pandas/Scikit). |
-| **Full Stack App Developer** | Netcamp Solutions Pvt Ltd | Jul 2024 – Aug 2024 | Native Android dev with Firebase. Consumed REST APIs, enhanced app stability across 20+ devices. |
-| **Java Developer Intern** | PINNACLE LAB | Jul 2026 – Present | Building e‑commerce & weather apps in Java. Applied OOP & RESTful patterns. |
+<div align="center">
 
----
+```mermaid
+timeline
+    title Career Timeline
+    2024 : Full Stack App Developer @ Netcamp Solutions
+    2025 : Backend Application Developer @ Better You And Friends Ltd
+    2026 : Java Developer Intern @ Pinnacle Lab
+```
+
+</div>
+
+| Role | Company | Duration | Key Contributions |
+|:---|:---|:---|:---|
+| 🟢 **Java Developer Intern** | Pinnacle Lab | Jul 2026 – Present | Building e-commerce & weather apps in Java. Applied OOP & RESTful patterns. |
+| 🔵 **Backend Application Developer** | Better You And Friends Ltd | Jul 2025 – Oct 2025 | Architected Node.js/Express APIs (5K+ daily reqs). Built React components & integrated ML workflows (Pandas/Scikit). |
+| 🟣 **Full Stack App Developer** | Netcamp Solutions Pvt Ltd | Jul 2024 – Aug 2024 | Native Android dev with Firebase. Consumed REST APIs, enhanced app stability across 20+ devices. |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
 ## 🛠️ Flagship Projects
 
-### 🌿 **Green India** – Sustainability App
+<div align="center">
+
+<a href="https://github.com/SDE-Abhishekkumar/Green-India">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SDE-Abhishekkumar&repo=Green-India&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF" width="47%"/>
+</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SDE-Abhishekkumar&repo=E-Commerce-Shopping-Cart&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF" width="47%"/>
+
+</div>
+
+### 🌿 Green India — Sustainability App
 `Java` `XML` `Android Studio` `Firebase` `REST APIs`
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-00FF88?style=flat-square)
 ![Repo Stars](https://img.shields.io/github/stars/SDE-Abhishekkumar/Green-India?style=flat-square&color=FFD700)
 
-- 📍 Waste Management module for reporting & tracking disposal.
-- 🌱 Plantation Streak to gamify tree‑planting habits.
-- 📊 Carbon Footprint Calculator using live API data.
-- 🔥 Firebase Auth + Real‑time sync for seamless UX.
+- 📍 Waste Management module for reporting & tracking disposal
+- 🌱 Plantation Streak to gamify tree-planting habits
+- 📊 Carbon Footprint Calculator using live API data
+- 🔥 Firebase Auth + Real-time sync for seamless UX
 
-### 🛒 **E‑Commerce Shopping Cart** – Internship Project
+### 🛒 E-Commerce Shopping Cart — Internship Project
 `Java` `REST APIs` `OOP`
 
 ![Project Status](https://img.shields.io/badge/Status-In_Progress-FFA500?style=flat-square)
 
-- Product browsing, cart management, order validation.
-- Modular SOLID design for easy scaling.
+- Product browsing, cart management, order validation
+- Modular SOLID design for easy scaling
 
-### ☁️ **Weather Forecast App** – Internship Project
+### ☁️ Weather Forecast App — Internship Project
 `Java` `OpenWeatherMap` `JSON`
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-00FF88?style=flat-square)
 
-- Real‑time weather + 5‑day forecast with dynamic icons.
-- Error handling and local caching.
+- Real-time weather + 5-day forecast with dynamic icons
+- Error handling and local caching
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
-## 🧰 Tech Arsenal (Animated Badges)
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,py,mysql,nodejs,express,firebase,react,androidstudio,git,github,postman,figma&theme=dark&perline=7" alt="Skill Icons" />
+
+</div>
 
 | **Category** | **Technologies** |
-|--------------|------------------|
-| **Languages** | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
-| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> |
-| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white" /> <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white" /> |
-| **Mobile** | <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> |
-| **ML / Data** | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> |
-| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> |
+|:---|:---|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white) ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white) |
+| **Mobile** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) |
+| **ML / Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
 ## 📜 Certifications & Badges
 
@@ -170,36 +213,44 @@ I actively solve Data Structures & Algorithms problems daily. Below is my **comp
   <img src="https://img.shields.io/badge/Digital_Forensics-003366?style=for-the-badge&logo=security&logoColor=white" />
 </p>
 
-- 🧠 **Data Structures & Algorithms with Java** – Arrays, Trees, Graphs, DP.
-- 💼 **DSA Interview Prep** – Complexity analysis & problem‑solving patterns.
-- 🔍 **Digital Forensics (NASSCOM)** – Cybercrime investigation & evidence handling.
+- 🧠 **Data Structures & Algorithms with Java** — Arrays, Trees, Graphs, DP
+- 💼 **DSA Interview Prep** — Complexity analysis & problem-solving patterns
+- 🔍 **Digital Forensics (NASSCOM)** — Cybercrime investigation & evidence handling
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
 ## 🎓 Education
 
 | Degree | Institution | Year | Highlights |
-|--------|-------------|------|------------|
-| **MCA (AI/ML)** | Uttaranchal University | 2024 – 2026 | Python, ML, Deep Learning, NLP, Data Viz. |
-| **BCA** | University of Lucknow | 2021 – 2024 | DSA, OOP, DBMS, Web Dev. |
+|:---|:---|:---|:---|
+| **MCA (AI/ML)** | Uttaranchal University | 2024 – 2026 | Python, ML, Deep Learning, NLP, Data Viz |
+| **BCA** | University of Lucknow | 2021 – 2024 | DSA, OOP, DBMS, Web Dev |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
+
+## 💬 Random Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
 ## 🌟 Let's Connect!
 
+<div align="center">
+
 I'm always open to **collaborations**, **mentorship**, or **exciting opportunities** — hit me up!
 
-<p align="center">
-  <a href="mailto:sde.abhishekkumarsingh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sde-abhishek-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/SDE-Abhishekkumar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/abhi_singh1234"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
+<a href="mailto:sde.abhishekkumarsingh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sde-abhishek-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/SDE-Abhishekkumar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/abhi_singh1234"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
----
+<br/><br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</p>
+**"Building solutions, one line of code at a time." ✨**
 
-> *“Building solutions, one line of code at a time.”* ✨
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,50:7000FF,100:00F7FF&height=150&section=footer" width="100%" />
