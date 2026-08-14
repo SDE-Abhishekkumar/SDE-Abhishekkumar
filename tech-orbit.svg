@@ -1,0 +1,102 @@
+<svg viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7000FF" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="coreGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="50%" stop-color="#7000FF"/>
+      <stop offset="100%" stop-color="#FF007F"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <circle cx="320" cy="320" r="300" fill="url(#bgGlow)"/>
+
+  <!-- Orbit ring guides -->
+  <circle cx="320" cy="320" r="120" fill="none" stroke="#00F7FF" stroke-opacity="0.18" stroke-width="1"/>
+  <circle cx="320" cy="320" r="190" fill="none" stroke="#7000FF" stroke-opacity="0.18" stroke-width="1"/>
+  <circle cx="320" cy="320" r="260" fill="none" stroke="#FF007F" stroke-opacity="0.15" stroke-width="1"/>
+
+  <!-- Central core -->
+  <circle cx="320" cy="320" r="62" fill="#0D1117" stroke="url(#coreGrad)" stroke-width="3" filter="url(#glow)">
+    <animate attributeName="r" values="60;66;60" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="320" y="332" text-anchor="middle" font-family="Fira Code, monospace" font-size="30" font-weight="700" fill="#00F7FF">AK</text>
+
+  <!-- Orbit 1 (inner, clockwise) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 320 320" to="360 320 320" dur="14s" repeatCount="indefinite"/>
+    <g transform="translate(320,200)">
+      <circle r="26" fill="#0D1117" stroke="#ED8B00" stroke-width="2" filter="url(#glow)"/>
+      <text x="0" y="6" text-anchor="middle" font-family="Fira Code, monospace" font-size="13" fill="#ED8B00" font-weight="700">Java</text>
+    </g>
+    <g transform="translate(320,440)">
+      <circle r="26" fill="#0D1117" stroke="#61DAFB" stroke-width="2" filter="url(#glow)"/>
+      <text x="0" y="6" text-anchor="middle" font-family="Fira Code, monospace" font-size="12" fill="#61DAFB" font-weight="700">React</text>
+    </g>
+  </g>
+
+  <!-- Orbit 2 (middle, counter-clockwise) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="360 320 320" to="0 320 320" dur="20s" repeatCount="indefinite"/>
+    <g transform="translate(320,130)">
+      <circle r="28" fill="#0D1117" stroke="#339933" stroke-width="2" filter="url(#glow)"/>
+      <text x="0" y="6" text-anchor="middle" font-family="Fira Code, monospace" font-size="12" fill="#339933" font-weight="700">Node</text>
+    </g>
+    <g transform="translate(155,447)">
+      <circle r="28" fill="#0D1117" stroke="#3DDC84" stroke-width="2" filter="url(#glow)"/>
+      <text x="0" y="6" text-anchor="middle" font-family="Fira Code, monospace" font-size="11" fill="#3DDC84" font-weight="700">Android</text>
+    </g>
+    <g transform="translate(485,447)">
+      <circle r="28" fill="#0D1117" stroke="#FFCA28" stroke-width="2" filter="url(#glow)"/>
+      <text x="0" y="6" text-anchor="middle" font-family="Fira Code, monospace" font-size="11" fill="#FFCA28" font-weight="700">Firebase</text>
+    </g>
+  </g>
+
+  <!-- Orbit 3 (outer, slow clockwise) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 320 320" to="360 320 320" dur="28s" repeatCount="indefinite"/>
+    <g transform="translate(320,60)">
+      <circle r="24" fill="#0D1117" stroke="#3776AB" stroke-width="2" filter="url(#glow)"/>
+      <text x="0" y="5" text-anchor="middle" font-family="Fira Code, monospace" font-size="11" fill="#3776AB" font-weight="700">Python</text>
+    </g>
+    <g transform="translate(85,180)">
+      <circle r="24" fill="#0D1117" stroke="#F7931E" stroke-width="2" filter="url(#glow)"/>
+      <text x="0" y="5" text-anchor="middle" font-family="Fira Code, monospace" font-size="10" fill="#F7931E" font-weight="700">Sklearn</text>
+    </g>
+    <g transform="translate(555,180)">
+      <circle r="24" fill="#0D1117" stroke="#4479A1" stroke-width="2" filter="url(#glow)"/>
+      <text x="0" y="5" text-anchor="middle" font-family="Fira Code, monospace" font-size="12" fill="#4479A1" font-weight="700">SQL</text>
+    </g>
+    <g transform="translate(85,460)">
+      <circle r="24" fill="#0D1117" stroke="#F05032" stroke-width="2" filter="url(#glow)"/>
+      <text x="0" y="5" text-anchor="middle" font-family="Fira Code, monospace" font-size="12" fill="#F05032" font-weight="700">Git</text>
+    </g>
+    <g transform="translate(555,460)">
+      <circle r="24" fill="#0D1117" stroke="#FF6C37" stroke-width="2" filter="url(#glow)"/>
+      <text x="0" y="5" text-anchor="middle" font-family="Fira Code, monospace" font-size="10" fill="#FF6C37" font-weight="700">Postman</text>
+    </g>
+  </g>
+
+  <!-- Twinkling particles -->
+  <circle cx="90" cy="90" r="2.5" fill="#00F7FF">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="560" cy="100" r="2" fill="#FF007F">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="70" cy="540" r="2" fill="#7000FF">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="580" cy="560" r="2.5" fill="#00F7FF">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
