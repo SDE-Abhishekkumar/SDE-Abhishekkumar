@@ -1,0 +1,78 @@
+<svg viewBox="0 0 760 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="termBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="50%" stop-color="#7000FF"/>
+      <stop offset="100%" stop-color="#FF007F"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="756" height="416" rx="14" fill="#0D1117" stroke="url(#termBorder)" stroke-width="2"/>
+
+  <!-- Title bar -->
+  <rect x="2" y="2" width="756" height="38" rx="14" fill="#161B22"/>
+  <rect x="2" y="26" width="756" height="14" fill="#161B22"/>
+  <circle cx="28" cy="21" r="6" fill="#FF5F56"/>
+  <circle cx="50" cy="21" r="6" fill="#FFBD2E"/>
+  <circle cx="72" cy="21" r="6" fill="#27C93F"/>
+  <text x="380" y="26" text-anchor="middle" font-family="Fira Code, monospace" font-size="13" fill="#8B949E">abhishek@dev-machine: ~/portfolio</text>
+
+  <g font-family="Fira Code, monospace" font-size="16" fill="#00FF88">
+    <text x="26" y="80" opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="0.2s" dur="0.3s" fill="freeze"/>
+      <tspan fill="#00F7FF">➜</tspan> <tspan fill="#7000FF">~/portfolio</tspan> <tspan fill="#e6edf3">git status</tspan>
+    </text>
+
+    <text x="26" y="108" opacity="0" fill="#8B949E">
+      <animate attributeName="opacity" values="0;1" begin="1s" dur="0.3s" fill="freeze"/>
+      On branch main · nothing to commit, working tree clean
+    </text>
+
+    <text x="26" y="145" opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="1.8s" dur="0.3s" fill="freeze"/>
+      <tspan fill="#00F7FF">➜</tspan> <tspan fill="#7000FF">~/portfolio</tspan> <tspan fill="#e6edf3">java -jar EcommerceApp.jar --env=prod</tspan>
+    </text>
+
+    <text x="26" y="173" opacity="0" fill="#8B949E">
+      <animate attributeName="opacity" values="0;1" begin="2.6s" dur="0.3s" fill="freeze"/>
+      [INFO] Starting REST controllers... OK
+    </text>
+    <text x="26" y="196" opacity="0" fill="#8B949E">
+      <animate attributeName="opacity" values="0;1" begin="3s" dur="0.3s" fill="freeze"/>
+      [INFO] Connected to Firebase Realtime DB
+    </text>
+    <text x="26" y="219" opacity="0" fill="#00FF88">
+      <animate attributeName="opacity" values="0;1" begin="3.4s" dur="0.3s" fill="freeze"/>
+      [SUCCESS] Application running on port 8080 ✔
+    </text>
+
+    <text x="26" y="256" opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="4.2s" dur="0.3s" fill="freeze"/>
+      <tspan fill="#00F7FF">➜</tspan> <tspan fill="#7000FF">~/portfolio</tspan> <tspan fill="#e6edf3">whoami --skills</tspan>
+    </text>
+
+    <text x="26" y="286" opacity="0" fill="#FFD700">
+      <animate attributeName="opacity" values="0;1" begin="5s" dur="0.3s" fill="freeze"/>
+      Java · React · Node.js · Android · Firebase · Python · ML
+    </text>
+
+    <text x="26" y="314" opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="5.8s" dur="0.3s" fill="freeze"/>
+      <tspan fill="#00F7FF">➜</tspan> <tspan fill="#7000FF">~/portfolio</tspan> <tspan fill="#e6edf3">echo "Always building, always learning."</tspan>
+    </text>
+    <text x="26" y="342" opacity="0" fill="#FF007F" font-weight="700">
+      <animate attributeName="opacity" values="0;1" begin="6.6s" dur="0.4s" fill="freeze"/>
+      Always building, always learning.
+    </text>
+
+    <text x="26" y="374" opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="7.4s" dur="0.3s" fill="freeze"/>
+      <tspan fill="#00F7FF">➜</tspan> <tspan fill="#7000FF">~/portfolio</tspan>
+    </text>
+  </g>
+
+  <!-- Blinking cursor -->
+  <rect x="182" y="360" width="10" height="18" fill="#00F7FF" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.001;0.3;0.55;0.8;1" begin="7.6s" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
