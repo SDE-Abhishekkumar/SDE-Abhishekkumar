@@ -1,0 +1,96 @@
+<svg viewBox="0 0 700 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="50%" stop-color="#7000FF"/>
+      <stop offset="100%" stop-color="#FF007F"/>
+    </linearGradient>
+    <filter id="barGlow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="700" height="380" rx="16" fill="#0D1117"/>
+  <text x="30" y="42" font-family="Fira Code, monospace" font-size="20" font-weight="700" fill="#e6edf3">Skill Proficiency</text>
+
+  <!-- Java -->
+  <text x="30" y="82" font-family="Fira Code, monospace" font-size="14" fill="#8B949E">Java</text>
+  <rect x="150" y="68" width="500" height="16" rx="8" fill="#161B22"/>
+  <rect x="150" y="68" width="0" height="16" rx="8" fill="url(#barGrad)" filter="url(#barGlow)">
+    <animate attributeName="width" from="0" to="450" begin="0.2s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </rect>
+  <text x="660" y="80" font-family="Fira Code, monospace" font-size="12" fill="#00F7FF" text-anchor="end" opacity="0">90%
+    <animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.3s" fill="freeze"/>
+  </text>
+
+  <!-- JavaScript / React -->
+  <text x="30" y="122" font-family="Fira Code, monospace" font-size="14" fill="#8B949E">React / JS</text>
+  <rect x="150" y="108" width="500" height="16" rx="8" fill="#161B22"/>
+  <rect x="150" y="108" width="0" height="16" rx="8" fill="url(#barGrad)" filter="url(#barGlow)">
+    <animate attributeName="width" from="0" to="400" begin="0.4s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </rect>
+  <text x="660" y="120" font-family="Fira Code, monospace" font-size="12" fill="#00F7FF" text-anchor="end" opacity="0">80%
+    <animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.3s" fill="freeze"/>
+  </text>
+
+  <!-- Android -->
+  <text x="30" y="162" font-family="Fira Code, monospace" font-size="14" fill="#8B949E">Android</text>
+  <rect x="150" y="148" width="500" height="16" rx="8" fill="#161B22"/>
+  <rect x="150" y="148" width="0" height="16" rx="8" fill="url(#barGrad)" filter="url(#barGlow)">
+    <animate attributeName="width" from="0" to="425" begin="0.6s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </rect>
+  <text x="660" y="160" font-family="Fira Code, monospace" font-size="12" fill="#00F7FF" text-anchor="end" opacity="0">85%
+    <animate attributeName="opacity" from="0" to="1" begin="1.7s" dur="0.3s" fill="freeze"/>
+  </text>
+
+  <!-- Node / Backend -->
+  <text x="30" y="202" font-family="Fira Code, monospace" font-size="14" fill="#8B949E">Node.js</text>
+  <rect x="150" y="188" width="500" height="16" rx="8" fill="#161B22"/>
+  <rect x="150" y="188" width="0" height="16" rx="8" fill="url(#barGrad)" filter="url(#barGlow)">
+    <animate attributeName="width" from="0" to="375" begin="0.8s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </rect>
+  <text x="660" y="200" font-family="Fira Code, monospace" font-size="12" fill="#00F7FF" text-anchor="end" opacity="0">75%
+    <animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.3s" fill="freeze"/>
+  </text>
+
+  <!-- Python / ML -->
+  <text x="30" y="242" font-family="Fira Code, monospace" font-size="14" fill="#8B949E">Python / ML</text>
+  <rect x="150" y="228" width="500" height="16" rx="8" fill="#161B22"/>
+  <rect x="150" y="228" width="0" height="16" rx="8" fill="url(#barGrad)" filter="url(#barGlow)">
+    <animate attributeName="width" from="0" to="350" begin="1.0s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </rect>
+  <text x="660" y="240" font-family="Fira Code, monospace" font-size="12" fill="#00F7FF" text-anchor="end" opacity="0">70%
+    <animate attributeName="opacity" from="0" to="1" begin="2.1s" dur="0.3s" fill="freeze"/>
+  </text>
+
+  <!-- SQL / DB -->
+  <text x="30" y="282" font-family="Fira Code, monospace" font-size="14" fill="#8B949E">SQL / Firebase</text>
+  <rect x="150" y="268" width="500" height="16" rx="8" fill="#161B22"/>
+  <rect x="150" y="268" width="0" height="16" rx="8" fill="url(#barGrad)" filter="url(#barGlow)">
+    <animate attributeName="width" from="0" to="400" begin="1.2s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </rect>
+  <text x="660" y="280" font-family="Fira Code, monospace" font-size="12" fill="#00F7FF" text-anchor="end" opacity="0">80%
+    <animate attributeName="opacity" from="0" to="1" begin="2.3s" dur="0.3s" fill="freeze"/>
+  </text>
+
+  <!-- DSA / Problem Solving -->
+  <text x="30" y="322" font-family="Fira Code, monospace" font-size="14" fill="#8B949E">DSA</text>
+  <rect x="150" y="308" width="500" height="16" rx="8" fill="#161B22"/>
+  <rect x="150" y="308" width="0" height="16" rx="8" fill="url(#barGrad)" filter="url(#barGlow)">
+    <animate attributeName="width" from="0" to="440" begin="1.4s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </rect>
+  <text x="660" y="320" font-family="Fira Code, monospace" font-size="12" fill="#00F7FF" text-anchor="end" opacity="0">88%
+    <animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.3s" fill="freeze"/>
+  </text>
+
+  <!-- Git / Tools -->
+  <text x="30" y="362" font-family="Fira Code, monospace" font-size="14" fill="#8B949E">Git / Tools</text>
+  <rect x="150" y="348" width="500" height="16" rx="8" fill="#161B22"/>
+  <rect x="150" y="348" width="0" height="16" rx="8" fill="url(#barGrad)" filter="url(#barGlow)">
+    <animate attributeName="width" from="0" to="460" begin="1.6s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </rect>
+  <text x="660" y="360" font-family="Fira Code, monospace" font-size="12" fill="#00F7FF" text-anchor="end" opacity="0">92%
+    <animate attributeName="opacity" from="0" to="1" begin="2.7s" dur="0.3s" fill="freeze"/>
+  </text>
+</svg>
