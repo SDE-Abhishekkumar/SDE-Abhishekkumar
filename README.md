@@ -102,8 +102,6 @@ Currently pursuing my **Master of Computer Applications (AI/ML)**, I combine aca
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
-
-> *💡 This needs a one-time setup: add the `generate-3d-contrib.yml` workflow (provided below) to `.github/workflows/` in your profile repo, run it once from the Actions tab, and it will auto-generate `profile-3d-contrib/profile-night-rainbow.svg` and keep it updated daily.*
 </div>
 
 ### 📊 Animated Skill Proficiency
@@ -151,18 +149,6 @@ I actively solve Data Structures & Algorithms problems daily. Below is my **comp
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
-
-## 🐍 Contribution Snake Game
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/output/github-snake.svg" />
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/output/github-snake.svg" width="95%" />
-  </picture>
-</p>
-
-> *💡 To enable the animated snake, add the [`snk` workflow](https://github.com/Platane/snk) to your `.github/workflows/` folder.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
