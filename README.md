@@ -103,7 +103,13 @@ Currently pursuing my **Master of Computer Applications (AI/ML)**, I combine aca
 <div align="center">
 <img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
 
-> *💡 Auto-generate this with [`profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) via GitHub Actions.*
+> *💡 This needs a one-time setup: add the `generate-3d-contrib.yml` workflow (provided below) to `.github/workflows/` in your profile repo, run it once from the Actions tab, and it will auto-generate `profile-3d-contrib/profile-night-rainbow.svg` and keep it updated daily.*
+</div>
+
+### 📊 Animated Skill Proficiency
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/skill-bars.svg" width="95%" alt="Animated Skill Proficiency Bars" />
 </div>
 
 ### 🧬 Isometric Repo Activity
