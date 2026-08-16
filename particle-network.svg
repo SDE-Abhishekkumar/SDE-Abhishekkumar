@@ -1,0 +1,46 @@
+<svg viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="pnBg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </radialGradient>
+    <filter id="pnGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="800" height="260" rx="16" fill="url(#pnBg)"/>
+
+  <!-- connecting lines -->
+  <g stroke="#00F7FF" stroke-width="1">
+    <line x1="80" y1="60" x2="220" y2="110"><animate attributeName="opacity" values="0.1;0.5;0.1" dur="3.2s" repeatCount="indefinite"/></line>
+    <line x1="220" y1="110" x2="370" y2="50"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.8s" repeatCount="indefinite"/></line>
+    <line x1="220" y1="110" x2="330" y2="190"><animate attributeName="opacity" values="0.1;0.4;0.1" dur="3.6s" repeatCount="indefinite"/></line>
+    <line x1="370" y1="50" x2="500" y2="100"><animate attributeName="opacity" values="0.4;0.1;0.4" dur="3s" repeatCount="indefinite"/></line>
+    <line x1="330" y1="190" x2="500" y2="100"><animate attributeName="opacity" values="0.15;0.5;0.15" dur="2.5s" repeatCount="indefinite"/></line>
+    <line x1="500" y1="100" x2="640" y2="60"><animate attributeName="opacity" values="0.5;0.15;0.5" dur="3.4s" repeatCount="indefinite"/></line>
+    <line x1="500" y1="100" x2="620" y2="180"><animate attributeName="opacity" values="0.2;0.45;0.2" dur="2.9s" repeatCount="indefinite"/></line>
+    <line x1="330" y1="190" x2="470" y2="220"><animate attributeName="opacity" values="0.1;0.4;0.1" dur="3.1s" repeatCount="indefinite"/></line>
+    <line x1="470" y1="220" x2="620" y2="180"><animate attributeName="opacity" values="0.4;0.1;0.4" dur="2.6s" repeatCount="indefinite"/></line>
+    <line x1="80" y1="60" x2="120" y2="180"><animate attributeName="opacity" values="0.1;0.35;0.1" dur="3.8s" repeatCount="indefinite"/></line>
+    <line x1="120" y1="180" x2="330" y2="190"><animate attributeName="opacity" values="0.35;0.1;0.35" dur="3.3s" repeatCount="indefinite"/></line>
+    <line x1="640" y1="60" x2="720" y2="150"><animate attributeName="opacity" values="0.15;0.4;0.15" dur="2.7s" repeatCount="indefinite"/></line>
+    <line x1="620" y1="180" x2="720" y2="150"><animate attributeName="opacity" values="0.4;0.15;0.4" dur="3.5s" repeatCount="indefinite"/></line>
+  </g>
+
+  <!-- drifting nodes -->
+  <g fill="#00F7FF" filter="url(#pnGlow)">
+    <circle cx="80" cy="60" r="4"><animateTransform attributeName="transform" type="translate" values="0,0;6,-8;-4,5;0,0" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="220" cy="110" r="5" fill="#7000FF"><animateTransform attributeName="transform" type="translate" values="0,0;-8,6;5,-5;0,0" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="370" cy="50" r="4" fill="#FF007F"><animateTransform attributeName="transform" type="translate" values="0,0;7,7;-6,-4;0,0" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="100" r="6" fill="#00F7FF"><animateTransform attributeName="transform" type="translate" values="0,0;-6,-6;8,4;0,0" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="190" r="4" fill="#7000FF"><animateTransform attributeName="transform" type="translate" values="0,0;5,-7;-7,5;0,0" dur="9.5s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="60" r="4" fill="#FF007F"><animateTransform attributeName="transform" type="translate" values="0,0;-5,8;6,-3;0,0" dur="8.5s" repeatCount="indefinite"/></circle>
+    <circle cx="620" cy="180" r="5" fill="#00F7FF"><animateTransform attributeName="transform" type="translate" values="0,0;8,-4;-5,6;0,0" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="470" cy="220" r="4" fill="#7000FF"><animateTransform attributeName="transform" type="translate" values="0,0;-6,-5;7,6;0,0" dur="9.8s" repeatCount="indefinite"/></circle>
+    <circle cx="120" cy="180" r="4" fill="#FF007F"><animateTransform attributeName="transform" type="translate" values="0,0;6,6;-5,-7;0,0" dur="8.2s" repeatCount="indefinite"/></circle>
+    <circle cx="720" cy="150" r="4" fill="#00F7FF"><animateTransform attributeName="transform" type="translate" values="0,0;-7,4;5,-6;0,0" dur="10.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="400" y="245" text-anchor="middle" font-family="Fira Code, monospace" font-size="13" fill="#8B949E">Full-Stack &amp; AI/ML network — always connecting new ideas</text>
+</svg>
