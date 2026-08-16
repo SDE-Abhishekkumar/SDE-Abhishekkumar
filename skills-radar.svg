@@ -1,0 +1,65 @@
+<svg viewBox="0 0 600 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="radarFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F7FF" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#7000FF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#FF007F" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="radarStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="50%" stop-color="#7000FF"/>
+      <stop offset="100%" stop-color="#FF007F"/>
+    </linearGradient>
+    <filter id="rGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="600" height="520" fill="#0D1117" rx="16"/>
+  <text x="300" y="42" text-anchor="middle" font-family="Fira Code, monospace" font-size="20" font-weight="700" fill="#e6edf3">Skill Radar</text>
+
+  <g stroke="#30363D" stroke-width="1" fill="none">
+    <polygon points="300,90 465,190 465,390 300,490 135,390 135,190"/>
+    <polygon points="300,140 424,215 424,365 300,440 176,365 176,215"/>
+    <polygon points="300,190 383,240 383,340 300,390 217,340 217,240"/>
+    <polygon points="300,240 341,265 341,315 300,340 259,315 259,265"/>
+  </g>
+  <g stroke="#30363D" stroke-width="1">
+    <line x1="300" y1="290" x2="300" y2="90"/>
+    <line x1="300" y1="290" x2="465" y2="190"/>
+    <line x1="300" y1="290" x2="465" y2="390"/>
+    <line x1="300" y1="290" x2="300" y2="490"/>
+    <line x1="300" y1="290" x2="135" y2="390"/>
+    <line x1="300" y1="290" x2="135" y2="190"/>
+  </g>
+
+  <g font-family="Fira Code, monospace" font-size="13" fill="#8B949E" font-weight="700">
+    <text x="300" y="72" text-anchor="middle">Backend</text>
+    <text x="490" y="185" text-anchor="start">Mobile</text>
+    <text x="490" y="398" text-anchor="start">Database</text>
+    <text x="300" y="512" text-anchor="middle">DSA</text>
+    <text x="110" y="398" text-anchor="end">DevOps</text>
+    <text x="110" y="185" text-anchor="end">ML / AI</text>
+  </g>
+
+  <polygon points="300,110 447.5,199.5 439,371 320.4,466 176.5,353.5 187,229"
+           fill="url(#radarFill)" stroke="url(#radarStroke)" stroke-width="2.5" filter="url(#rGlow)"
+           stroke-dasharray="900" stroke-dashoffset="900">
+    <animate attributeName="stroke-dashoffset" from="900" to="0" begin="0.2s" dur="1.8s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    <animate attributeName="opacity" values="0;1" begin="0.2s" dur="1s" fill="freeze"/>
+  </polygon>
+
+  <g fill="#00F7FF">
+    <circle cx="300" cy="110" r="5"><animate attributeName="r" values="4;7;4" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="447.5" cy="199.5" r="5"><animate attributeName="r" values="4;7;4" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="439" cy="371" r="5"><animate attributeName="r" values="4;7;4" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="320.4" cy="466" r="5"><animate attributeName="r" values="4;7;4" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="176.5" cy="353.5" r="5"><animate attributeName="r" values="4;7;4" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="187" cy="229" r="5"><animate attributeName="r" values="4;7;4" dur="2.1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <circle cx="300" cy="290" r="230" fill="none" stroke="#00F7FF" stroke-opacity="0.12" stroke-width="1" stroke-dasharray="4 12">
+    <animateTransform attributeName="transform" type="rotate" from="0 300 290" to="360 300 290" dur="40s" repeatCount="indefinite"/>
+  </circle>
+</svg>
