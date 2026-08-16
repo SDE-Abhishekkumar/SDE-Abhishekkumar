@@ -98,12 +98,6 @@ Currently pursuing my **Master of Computer Applications (AI/ML)**, I combine aca
 
 </div>
 
-### 🧊 3D Contribution Calendar
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
-</div>
-
 ### 📊 Animated Skill Proficiency
 
 <div align="center">
@@ -262,6 +256,14 @@ timeline
 <div align="center">
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/issues?q=author:SDE-Abhishekkumar+type:pr&query=$.total_count&label=Pull%20Requests&color=00F7FF&style=for-the-badge&logo=github" alt="PR Count" />
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/issues?q=author:SDE-Abhishekkumar+type:issue&query=$.total_count&label=Issues%20Opened&color=FF007F&style=for-the-badge&logo=github" alt="Issue Count" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
+
+## 🏅 Achievements at a Glance
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/achievement-badges.svg" width="95%" alt="Animated Achievement Badges" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
