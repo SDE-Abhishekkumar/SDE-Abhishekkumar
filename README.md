@@ -76,7 +76,19 @@ Currently pursuing my **Master of Computer Applications (AI/ML)**, I combine aca
 <img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/Terminal%20animation.svg" width="95%" alt="Animated Terminal" />
 </div>
 
-> *💡 Both graphics above are custom-built SVGs (not third-party badges). Make sure `tech-orbit.svg` and `Terminal animation.svg` sit in the root of your `SDE-Abhishekkumar/SDE-Abhishekkumar` profile repo (not inside a subfolder) for the links above to render.*
+### 🕸️ Constellation Network
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/particle-network.svg" width="95%" alt="Animated Particle Network" />
+</div>
+
+### 📝 Syntax-Highlighted Code
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/code-snippet.svg" width="95%" alt="Animated Syntax-Highlighted Code" />
+</div>
+
+> *💡 All graphics above are custom-built SVGs (not third-party badges). Make sure `tech-orbit.svg`, `Terminal animation.svg`, `particle-network.svg`, and `code-snippet.svg` sit in the root of your `SDE-Abhishekkumar/SDE-Abhishekkumar` profile repo for the links above to render.*
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="Animated Divider" />
@@ -112,6 +124,18 @@ Currently pursuing my **Master of Computer Applications (AI/ML)**, I combine aca
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/skills-radar.svg" width="60%" alt="Animated Skill Radar Chart" />
+</div>
+
+### 🔘 Circular Skill Meters
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/circular-skills.svg" width="95%" alt="Animated Circular Skill Meters" />
+</div>
+
+### 💓 Commit Pulse
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/commit-pulse.svg" width="95%" alt="Animated Commit Pulse EKG" />
 </div>
 
 ### 🧬 Isometric Repo Activity
