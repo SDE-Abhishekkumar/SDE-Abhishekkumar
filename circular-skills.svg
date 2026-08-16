@@ -1,0 +1,73 @@
+<svg viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ringGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F7FF"/><stop offset="100%" stop-color="#7000FF"/>
+    </linearGradient>
+    <linearGradient id="ringGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7000FF"/><stop offset="100%" stop-color="#FF007F"/>
+    </linearGradient>
+    <linearGradient id="ringGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF007F"/><stop offset="100%" stop-color="#FFD700"/>
+    </linearGradient>
+    <linearGradient id="ringGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00FF88"/><stop offset="100%" stop-color="#00F7FF"/>
+    </linearGradient>
+    <filter id="cGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="700" height="220" rx="16" fill="#0D1117"/>
+
+  <!-- Java 90% -->
+  <g transform="translate(90,110)">
+    <circle r="70" fill="none" stroke="#161B22" stroke-width="12"/>
+    <circle r="70" fill="none" stroke="url(#ringGrad1)" stroke-width="12" stroke-linecap="round"
+            stroke-dasharray="440" stroke-dashoffset="440" transform="rotate(-90)" filter="url(#cGlow)">
+      <animate attributeName="stroke-dashoffset" from="440" to="44" begin="0.2s" dur="1.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </circle>
+    <text text-anchor="middle" y="-4" font-family="Fira Code, monospace" font-size="24" font-weight="700" fill="#e6edf3">
+      <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.3s" fill="freeze"/>90%
+    </text>
+    <text text-anchor="middle" y="20" font-family="Fira Code, monospace" font-size="12" fill="#8B949E">Java</text>
+  </g>
+
+  <!-- React 80% -->
+  <g transform="translate(260,110)">
+    <circle r="70" fill="none" stroke="#161B22" stroke-width="12"/>
+    <circle r="70" fill="none" stroke="url(#ringGrad2)" stroke-width="12" stroke-linecap="round"
+            stroke-dasharray="440" stroke-dashoffset="440" transform="rotate(-90)" filter="url(#cGlow)">
+      <animate attributeName="stroke-dashoffset" from="440" to="88" begin="0.4s" dur="1.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </circle>
+    <text text-anchor="middle" y="-4" font-family="Fira Code, monospace" font-size="24" font-weight="700" fill="#e6edf3">
+      <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.3s" fill="freeze"/>80%
+    </text>
+    <text text-anchor="middle" y="20" font-family="Fira Code, monospace" font-size="12" fill="#8B949E">React</text>
+  </g>
+
+  <!-- Android 85% -->
+  <g transform="translate(430,110)">
+    <circle r="70" fill="none" stroke="#161B22" stroke-width="12"/>
+    <circle r="70" fill="none" stroke="url(#ringGrad3)" stroke-width="12" stroke-linecap="round"
+            stroke-dasharray="440" stroke-dashoffset="440" transform="rotate(-90)" filter="url(#cGlow)">
+      <animate attributeName="stroke-dashoffset" from="440" to="66" begin="0.6s" dur="1.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </circle>
+    <text text-anchor="middle" y="-4" font-family="Fira Code, monospace" font-size="24" font-weight="700" fill="#e6edf3">
+      <animate attributeName="opacity" from="0" to="1" begin="2s" dur="0.3s" fill="freeze"/>85%
+    </text>
+    <text text-anchor="middle" y="20" font-family="Fira Code, monospace" font-size="12" fill="#8B949E">Android</text>
+  </g>
+
+  <!-- Python/ML 70% -->
+  <g transform="translate(600,110)">
+    <circle r="70" fill="none" stroke="#161B22" stroke-width="12"/>
+    <circle r="70" fill="none" stroke="url(#ringGrad4)" stroke-width="12" stroke-linecap="round"
+            stroke-dasharray="440" stroke-dashoffset="440" transform="rotate(-90)" filter="url(#cGlow)">
+      <animate attributeName="stroke-dashoffset" from="440" to="132" begin="0.8s" dur="1.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </circle>
+    <text text-anchor="middle" y="-4" font-family="Fira Code, monospace" font-size="24" font-weight="700" fill="#e6edf3">
+      <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.3s" fill="freeze"/>70%
+    </text>
+    <text text-anchor="middle" y="20" font-family="Fira Code, monospace" font-size="12" fill="#8B949E">Python/ML</text>
+  </g>
+</svg>
