@@ -1,0 +1,35 @@
+<svg viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ekgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="50%" stop-color="#7000FF"/>
+      <stop offset="100%" stop-color="#FF007F"/>
+    </linearGradient>
+    <filter id="ekgGlow" x="-20%" y="-100%" width="140%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="800" height="140" rx="14" fill="#0D1117"/>
+  <text x="24" y="30" font-family="Fira Code, monospace" font-size="14" fill="#8B949E">// commit activity — always shipping</text>
+
+  <g stroke="url(#ekgGrad)" stroke-width="2.5" fill="none" filter="url(#ekgGlow)">
+    <path d="M -800,90 L -740,90 L -720,90 L -705,40 L -690,120 L -675,90 L -600,90
+             L -580,90 L -565,55 L -550,110 L -535,90 L -460,90
+             L -440,90 L -425,30 L -410,125 L -395,90 L -320,90
+             L -300,90 L -285,60 L -270,105 L -255,90 L -180,90
+             L -160,90 L -145,45 L -130,115 L -115,90 L -40,90
+             L -20,90 L -5,60 L 10,110 L 25,90 L 100,90">
+      <animate attributeName="d"
+        values="
+          M 0,90 L 60,90 L 80,90 L 95,40 L 110,120 L 125,90 L 200,90 L 220,90 L 235,55 L 250,110 L 265,90 L 340,90 L 360,90 L 375,30 L 390,125 L 405,90 L 480,90 L 500,90 L 515,60 L 530,105 L 545,90 L 620,90 L 640,90 L 655,45 L 670,115 L 685,90 L 760,90 L 780,90 L 795,60 L 810,110 L 825,90 L 900,90;
+          M -100,90 L -40,90 L -20,90 L -5,40 L 10,120 L 25,90 L 100,90 L 120,90 L 135,55 L 150,110 L 165,90 L 240,90 L 260,90 L 275,30 L 290,125 L 305,90 L 380,90 L 400,90 L 415,60 L 430,105 L 445,90 L 520,90 L 540,90 L 555,45 L 570,115 L 585,90 L 660,90 L 680,90 L 695,60 L 710,110 L 725,90 L 800,90;
+          M -900,90 L -840,90 L -820,90 L -805,40 L -790,120 L -775,90 L -700,90 L -680,90 L -665,55 L -650,110 L -635,90 L -560,90 L -540,90 L -525,30 L -510,125 L -495,90 L -420,90 L -400,90 L -385,60 L -370,105 L -355,90 L -280,90 L -260,90 L -245,45 L -230,115 L -215,90 L -140,90 L -120,90 L -105,60 L -90,110 L -75,90 L 0,90"
+        dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <circle cx="400" cy="90" r="4" fill="#FF007F">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite"/>
+  </circle>
+</svg>
