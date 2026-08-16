@@ -126,7 +126,7 @@ I actively solve Data Structures & Algorithms problems daily. Below is my **comp
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total_Solved-200+-00F7FF?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+<img src="https://img.shields.io/badge/Total_Solved-1500+-00F7FF?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 <img src="https://img.shields.io/badge/Global_Ranking-Top_30%25-FFD700?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 <img src="https://img.shields.io/badge/Acceptance_Rate-65%25-00FF88?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
