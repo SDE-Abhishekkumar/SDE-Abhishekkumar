@@ -32,6 +32,10 @@
 <img src="https://img.shields.io/github/followers/SDE-Abhishekkumar?style=for-the-badge&logo=github&color=00C7FF&labelColor=0D1117" alt="GitHub Followers" />
 <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-00FF88?style=for-the-badge&labelColor=0D1117" alt="Open to Work" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/status-pulse.svg" alt="Live Status Pulse" />
+
 <br/>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="Animated Divider" />
@@ -102,6 +106,12 @@ Currently pursuing my **Master of Computer Applications (AI/ML)**, I combine aca
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/skill-bars.svg" width="95%" alt="Animated Skill Proficiency Bars" />
+</div>
+
+### 🎯 Skill Radar
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SDE-Abhishekkumar/SDE-Abhishekkumar/main/skills-radar.svg" width="60%" alt="Animated Skill Radar Chart" />
 </div>
 
 ### 🧬 Isometric Repo Activity
